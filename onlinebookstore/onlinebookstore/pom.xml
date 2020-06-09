@@ -12,7 +12,7 @@
 	<artifactId>onlinebookstore</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>onlinebookstore</name>
-	<description>Online Book Store</description>
+	<description>Online Book Store</description> 
 
 	<properties>
 		<java.version>1.8</java.version>
